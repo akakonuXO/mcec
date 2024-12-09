@@ -1,3 +1,3 @@
 # minecraft-exploit-collection
 
-soon
+the module.py exploit is a vulnerability in world edit which allows servers to crash when ran 
